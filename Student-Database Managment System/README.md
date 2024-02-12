@@ -1,4 +1,3 @@
-07 Akashh
 # Student Database Management System
 
 ## Overview
@@ -14,15 +13,12 @@ This project is a comprehensive Student Database Management System designed to s
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Authentication:** Passport.js
-- **Additional Libraries:** Mongoose (ODM for MongoDB)
+- **Backend:** Java
+
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/your-username/student-database-management.git`
+1. Clone the repository: `git clone https://github.com/07Akashh/std-database.git`
 2. Install dependencies: `npm install`
 3. Configure environment variables.
 4. Run the application: `npm start`
