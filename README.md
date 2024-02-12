@@ -19,7 +19,7 @@ This project is a comprehensive Student Database Management System designed to s
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/your-username/`
+1. Clone the repository: `git clone https://github.com/07Akashh/std-database.git`
 2. Install dependencies: `npm install`
 3. Configure environment variables.
 4. Run the application: `npm start`
