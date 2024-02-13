@@ -2,7 +2,7 @@
 # Student Database Management System
 
 ## Overview
-
+ 
 This project is a comprehensive Student Database Management System designed to streamline the process of managing student information within an educational institution. It offers a user-friendly interface for administrators to efficiently handle tasks such as student enrollment, record management, and grade tracking.
 
 ## Features
